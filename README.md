@@ -1,0 +1,2 @@
+# argocd-project
+my apps
